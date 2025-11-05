@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue)](#license)
 
 
-A professional, mobile-friendly web app to manage your tasks efficiently. Task Master lets you organize, search, sort, and complete tasks with categories, deadlines, and persistent dark/light theming — all on a clean UI. 
+A professional, mobile-friendly web app to manage your tasks efficiently. Task Master lets you organize, search, sort, and complete tasks with categories and deadlines with a persistent dark/light theming — all on a clean UI. 
 
 The **live demo** runs entirely in session for instant preview on Render’s free plan.
 
