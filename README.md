@@ -19,7 +19,7 @@ The **live demo** runs entirely in session for instant preview on Render’s fre
 ## Features
 
 - **📂 Task Categories**: Organize tasks by Work, Study, Personal, Health, Shopping, or Other.  
-- **✅ Completion Checkboxes**: Mark tasks as done to cross them out or easily undo.
+- **✅ Completion Checkboxes**: Mark tasks as done to cross them out, user can easily undo.
 - **🔍 Search & Sort**: Search, filter and sort tasks by category, date added or completion.  
 - **🌗 Dark/Light Theme**: Instantly toggle your UI preference.
 - **💻 Responsive Modern Design**: Animated transitions, hover effects, rounded cards, and robust mobile support.
@@ -162,7 +162,7 @@ python tests/test_app.py
 2. Tasks appear in a colorful, responsive card layout.
 3. Filter/search/sort with instant UI feedback.
 4. Check tasks off via the completion checkbox.
-5. Overdue tasks highlight visually.
+5. Overdue tasks are highlighted visually.
 6. Edit or delete any task — full error handling ensures reliability.
 7. Toggle UI theme — theme is saved for future visits.
 
